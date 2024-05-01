@@ -17,7 +17,7 @@ class_names = open("labels.txt", "r").readlines()
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
 # Replace this with the path to your image
-image = Image.open("ANANAS.jpg.jpg").convert("RGB")
+image = Image.open("C:/Users/Admin/PycharmProjects/FruitDetector/ANANAS.jpg.jpg").convert("RGB")
 
 # resizing the image to be at least 224x224 and then cropping from the center
 size = (224, 224)
