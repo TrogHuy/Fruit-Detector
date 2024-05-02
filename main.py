@@ -33,8 +33,8 @@ while True:
         ],
         [
             "test_model_data/durian/durian1.jpg",
-            "test_model_data/durian/ durian2.jpg",
-            "test_model_data/durian/ durian3.jpg",
+            "test_model_data/durian/durian2.jpg",
+            "test_model_data/durian/durian3.jpg",
         ],
         [
             "test_model_data/grape/grape1.jpg",
