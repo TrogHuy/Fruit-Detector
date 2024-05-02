@@ -1,9 +1,9 @@
-0 Orange
-1 Grape
-2 Tomato
-3 Pineapple
-4 Durian
-5 Banana
-6 Apple
-7 Dragon fruit
-8 No object
+0 die Orange (Orange)
+1 die Weintraube (Grape)
+2 die Tomate (Tomato)
+3 die Ananas (Pineapple)
+4 der Durian (Durian)
+5 die Banane (Banana)
+6 der Apfel (Apple)
+7 die Drachenfrucht (Dragon fruit)
+8 kein Objekt (No object)
