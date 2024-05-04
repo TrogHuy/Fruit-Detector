@@ -7,8 +7,8 @@ from random import randint
 import base64
 import io
 
-AIO_USERNAME = "ngtronghuy123"
-AIO_KEY = "aio_dtwv08wufwXsRcgNJN1oa4NHI8qn"
+AIO_USERNAME = "ngtronghuy"
+AIO_KEY = "aio_sJPJ31sGFyt96vFQu1Jh0gHhlF20"
 
 client = MQTTClient(AIO_USERNAME, AIO_KEY)
 client.connect()
